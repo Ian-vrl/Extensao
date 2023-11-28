@@ -1,4 +1,4 @@
-#Questão 1 
+# Calculadora de Média
 nota1 = float()
 nota2 = float()
 nota3 = float()

@@ -1,4 +1,4 @@
-# Questão 3
+# Calculadora de Fatorial
 numero = int()
 fatorial = 1
 

@@ -1,4 +1,4 @@
-# Questao 2
+# Verificador de Número Par ou Ímpar
 numero = int()
 print("Digite um número:")
 numero = int(input())
